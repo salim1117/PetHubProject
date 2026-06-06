@@ -1,0 +1,31 @@
+# Eclipse IDE metadata
+.metadata/
+.settings/
+.classpath
+.project
+*.iml
+
+# Graphify analysis output
+graphify-out/
+.graphifyignore
+
+# Build outputs
+target/
+build/
+out/
+
+# Compiled classes
+*.class
+*.jar
+*.war
+*.ear
+
+# Logs
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Environment / secrets
+.env
