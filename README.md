@@ -11,7 +11,7 @@ A full-stack Java web application for buying pets, pet products, booking vet app
 - 📦 **Order Management** — Place, track, and cancel orders
 - 👤 **User Authentication** — Register, login, profile update, password reset
 - 🔐 **Admin Panel** — Manage products, orders, and users
-- 💬 **Chatbot** — AI-powered pet care assistant (OpenAI GPT)
+- 💬 **Chatbot** — AI-powered pet care assistant (Google Gemini)
 - ⭐ **Reviews** — Product ratings and reviews
 - 📞 **Contact Us** — Submit inquiries
 
